@@ -60,7 +60,7 @@
 
 .gallery-item:hover {
     opacity: 1;
-    background-color: rgba(0,0,0, 0.5);
+    background-color: rgba(36, 36, 36, 0.5);
 }
 
 .gallery-item img {
@@ -70,6 +70,7 @@
 @media screen and (max-width: 480px) {
     .gallery-frame {
         width: 100%;
+        
     }
 
 }

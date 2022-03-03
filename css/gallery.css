@@ -70,7 +70,19 @@
 @media screen and (max-width: 480px) {
     .gallery-frame {
         width: 100%;
-        
+        height: auto;
+        padding-bottom: 0;
     }
 
+    .gallery-item {
+        position: relative;
+        background-color: transparent;
+        font-weight: bold;
+        color: rgb(209, 4, 4);
+        opacity: 1;
+        width: auto;
+        height: auto;
+        color: black;
+        font-weight: 100;
+    }
 }
